@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    color: white;
+    inset: 0;
+    display: flex;
+    justify-content: right;
+}
+#mySection {
+    position: fixed;
+    color: #000000;
+    font-size: large;
+}
